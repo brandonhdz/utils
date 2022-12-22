@@ -1,2 +1,2 @@
 # utils
-System Level Utils that help enhance CI/CD
+Linux/BASH Utils that help enhance CI/CD
